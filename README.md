@@ -24,28 +24,28 @@ To get a local copy up and running follow these simple example steps.
 - RubyGems
 
 ### Setup
-**clone repository**
-``
+- clone repository
+
+```
 git clone <REPO-NAME>
-
-``
+```
 ### Install
-**Install dependencies**
-``
+- Install dependencies
+
+```
 bundle install
-
-``
+```
 ### Usage
-**Go to directory**
-``
+- Go to directory
+
+```
 cd hello-rails-react
+```
+- Run Server
 
-``
-**Run Server**
-``
+```
 rails s
-
-``
+```
 ## Authors
 
 👤 **Enmanuel Lassis**
