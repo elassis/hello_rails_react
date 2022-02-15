@@ -1,11 +1,12 @@
-.component-container{
+.component-container {
   list-style-type: none;
   font-size: 25px;
-  text-transform:capitalize;
+  text-transform: capitalize;
   width: 20%;
-  margin:20px auto;
+  margin: 20px auto;
 }
-.GreetingBtn{
+
+.GreetingBtn {
   text-transform: capitalize;
   margin-top: 10px;
 }
